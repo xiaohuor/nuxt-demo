@@ -23,4 +23,4 @@ For detailed explanation on how things work, checkout the [Nuxt.js docs](https:/
 
 ## 学习进度
 
-P8 07节NustJS默认模板和默认布局
+[P8 07节NustJS默认模板和默认布局](https://www.bilibili.com/video/av36353273/?p=8)
